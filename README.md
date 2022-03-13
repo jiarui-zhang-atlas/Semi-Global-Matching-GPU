@@ -5,7 +5,7 @@ This implementation is designed to process my personal high-resolution stereo im
 
 ​																						KITTI left image
 
-<img src="D:\TUM\Semi-Global-Matching-GPU\kitti_right.png" alt="kitti_right" style="zoom: 50%;" />
+<img src="https://github.com/Atlaszjr-star/Semi-Global-Matching-GPU/blob/main/kitti_left.png" alt="kitti_right" style="zoom: 50%;" />
 
 ​																						KITTI right image
 
